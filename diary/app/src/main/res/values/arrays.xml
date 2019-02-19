@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="delete">
+        <item>Section Delete</item>
+        <item>All Delete</item>
+    </string-array>
+    <string-array name="bk_color">
+        <item>White</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>
